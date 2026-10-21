@@ -2,7 +2,7 @@
 
 A reusable agent skill for designing and implementing original, polished interfaces—especially technical dashboards, infrastructure consoles, data-heavy products, and modern web applications.
 
-[![skills.sh](https://skills.sh/b/Ampexqt/gridshift-ui-skill)](https://skills.sh/Ampexqt/gridshift-ui-skill)
+[View Gridshift UI on skills.sh](https://skills.sh/ampexqt/gridshift-ui-skill/gridshift-ui)
 
 ## What it helps with
 
