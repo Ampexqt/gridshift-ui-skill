@@ -93,6 +93,16 @@ Do not invent protocol mechanics, network statistics, token economics, reward gu
 - Keep critical state understandable without color or animation.
 - Prefer small, purposeful interactions over effects that delay the user's task.
 
+## UI/UX Quality Standards
+
+- Prioritize clear visual hierarchy and intentional spacing.
+- Avoid generic AI-generated dashboard layouts and repetitive cards.
+- Use purposeful animations that communicate real interface states.
+- Ensure every interactive element has meaningful behavior.
+- Maintain responsive layouts across mobile, tablet, and desktop.
+- Create original visual identities rather than copying existing products.
+- Balance technical aesthetics with accessibility and readability.
+
 ## Reference Index
 
 - `references/README.md` — reading order and design intent.
